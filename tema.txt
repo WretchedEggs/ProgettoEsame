@@ -1,0 +1,33 @@
+<?php
+    $tema='
+
+<div id="top">
+<center>
+    <h1>Sito Web Rotaru Bianca</h1>
+    <br>
+    <marquee behavior="scroll" scrollamount="20" width=100%>Hello</marquee> 
+</center>
+</div>
+
+<div id="left">
+ <center><h3>-Menu`-</h3></center>
+    <a href="Homepage.php">Homepage</a><br>
+    <a href="Messaggi.php">Messaggi</a><br>
+    <a href="User.php">Your Account</a><br>
+    <a href="Amministrazione.php">Amministrazione</a>
+    <div id="leftimg"><img src="./Immagini/tumblr_nxtl4tSlXw1unruc9o1_500.png"></div>
+    
+</div>
+    
+<div id="right">
+<div id="descrizioneright">Benvenuti sul mio sito, io sono Rotaru Bianca e sto provando la descrizione bella.</div>
+ <h3>-Info-</h3>
+    <b>Best view: </b>Google Chrome;<br>
+    <b>Admin: </b>Rotaru Bianca;<br>
+    <b>Start: </b>08/02/2017;<br>
+</div>
+
+<div id="bottom"></div>
+';
+    
+?>
